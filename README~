@@ -1,0 +1,12 @@
+About tool ->
+
+	MYSQLtrigger is a web developer's tool to manage database.MYSQLtrigger helps the developers to manipulate the database like   	        creating database,create table,updation,deletion etc.
+	
+	MYSQLtrigger is a tool developed in PHP,HTML,CSS.You can use MYSQLtrigger to create and drop databases, create/drop/alter tables, delete/edit/add fields etc.
+		
+	MYSQLtrigger is a freeware tool for the web developers.MYSQLtrigger is currently available for linux users only.It works perfectly on all linux distributions.
+
+Installation of MYSQLtrigger ->
+
+1.Just unpack MYSQLtrigger package and place it in /www directory.
+2.Go to browser and type location of directory (Example - http://localhost/MYSQLtrigger)
